@@ -3,7 +3,7 @@ cat ~/.streamlit/test.txt
 
 echo "\
 [general]\n\
-email = \"maria.s.startseva@gmail.com\"\n\
+email = \"vidhu.vidhuran@gmail.com\"\n\
 " > ~/.streamlit/credentials.toml
 
 echo "\
