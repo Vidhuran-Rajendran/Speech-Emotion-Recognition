@@ -87,4 +87,4 @@ Research has shown that verbal communication remains one of the most employable 
 **So after all the things do we conclude the paper in this section first use EDA load the data and get intuition about data after that some techniques are use like Data augmentation, feature extraction and modelIn model we use six type of model starting from Machine learning to deep learning model in machine learning we use decision tree and KNN after that using deep learning model GRU, LSTM, CNN, MLP classifier This speech emotion recognition are use in various field like customer care, marketing etc.** 
 
 
-** Link :(https://share.streamlit.io/vidhuran-rajendran/speech-emotion-recognition/main/app.py)**
+**Link :(https://share.streamlit.io/vidhuran-rajendran/speech-emotion-recognition/main/app.py)**
